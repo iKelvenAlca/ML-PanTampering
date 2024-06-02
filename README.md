@@ -1,4 +1,5 @@
-# ML-PanTamperingProjeto de Detecção de Manipulação em Cartão PAN
+# ML-PanTampering
+Projeto de Detecção de Manipulação em Cartão PAN
 ## Objetivo
 Este projeto visa detectar manipulação em imagens de cartões PAN (Permanent Account Number) usando técnicas de processamento de imagem e análise estrutural.
 
